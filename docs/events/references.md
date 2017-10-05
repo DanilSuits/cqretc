@@ -18,4 +18,9 @@ http://archives.seul.org/linuxgames/Oct-1998/msg00123.html
 * https://lmax-exchange.github.io/disruptor/
 * http://mechanitis.blogspot.com/search/label/disruptor
 
+## Eric Evans
+
+* [Domain-Driven Design][2003.BlueBook]
+
 [2017.Young]: https://leanpub.com/esversioning
+[2003.BlueBook]: http://a.co/22X2xms
