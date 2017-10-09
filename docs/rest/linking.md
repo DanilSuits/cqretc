@@ -6,5 +6,7 @@
  * http://microformats.org/
  * http://dublincore.org/documents/dces/
  * http://www.iana.org/assignments/link-relations/link-relations.xhtml
+ * https://tools.ietf.org/html/draft-wilde-linkset-link-rel-02
+ 
  
  
